@@ -2,12 +2,12 @@
 
 ## Deployed Program
 
-[Deployed Program](./deploy.png)
+![Deployed Program](./deploy.png)
 
 ## Account Involved
 
-[Account Involved in a the Transaction](./account.png)
+![Account Involved in a the Transaction](./account.png)
 
 ## Logs of the Transaction
 
-[Logs](./logs.png)
+![Logs](./logs.png)
